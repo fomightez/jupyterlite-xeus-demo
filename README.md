@@ -1,6 +1,6 @@
 # My xeus-python + JupyterLite demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/jupyterlite-xeus-demo/lab/?path=demo.ipynb)
 
 xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes. Mainly to see if sidecar works with JupyterLite and if can combine in with ipycanvas.
 
