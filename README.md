@@ -1,12 +1,12 @@
-# xeus-python + JupyterLite demo
+# My xeus-python + JupyterLite demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes. Mainly to see if sidecar works with JupyterLite and if can combine in with ipycanvas.
 
 ## ✨ Try it in your browser ✨
 
-https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
+https://fomightez.github.io/jupyterlite-xeus-demo/notebooks/?path=demo.ipynb
 
 ## ≠ How does it compare to the Pyodide kernel?
 
